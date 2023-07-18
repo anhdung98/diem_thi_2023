@@ -45,7 +45,7 @@ class DiemThiSpider(scrapy.Spider):
                 return
             for result in results:
                 for key in result:
-                    if result[key].startswith('-') or result[key] == '-1.0' or len(result[key]) == 0:
+                    if result[key].startswith('-') or len(result[key]) == 0:
                         result[key] = None
                     elif key == 'sbd' or key == 'dmText':
                         result[key] = result[key]
