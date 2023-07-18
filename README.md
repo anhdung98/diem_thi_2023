@@ -71,3 +71,23 @@ Download tại đây: [https://github.com/anhdung98/diem_thi_2023/raw/main/diem_
 - 62 – TỈNH ĐIỆN BIÊN
 - 63 – TỈNH ĐĂK NÔNG
 - 64 – TỈNH HẬU GIANG
+
+## Hướng dẫn cài đặt
+
+### 1. Cài đặt Python
+
+Vui lòng tải Python tại https://www.python.org/
+
+### 2. Cài đặt framework Scrapy
+
+Công cụ Crawl dữ liệu được viết bằng Python Framework [Scrapy](https://github.com/scrapy/scrapy). Để cài đặt framework Scrapy, bạn hãy chạy lệnh sau:
+
+`pip3 install scrapy`
+
+### 3. Tải source code bằng _git_
+
+`git clone --branch source-code https://github.com/anhdung98/diem_thi_2023.git`
+
+### 4. Crawl dữ liệu
+
+`scrapy crawl diemthi2023 --nolog`
