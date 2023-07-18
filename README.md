@@ -2,6 +2,8 @@
 
 Dữ liệu cập nhật ngày 18/07/2013, không bao gồm điểm phúc khảo.
 
+Download tại đây: [https://github.com/anhdung98/diem_thi_2023/raw/main/diem_thi_thpt_2023.csv](https://github.com/anhdung98/diem_thi_2023/raw/main/diem_thi_thpt_2023.csv)
+
 > Hai chữ số đầu tiên của số báo danh là mã tỉnh/thành phố của thí sinh dự thi
 
 ## Mã tỉnh/thành phố
